@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933073146692",
+    "firebase_url": "https://csitzone-64d3c.firebaseio.com",
+    "project_id": "csitzone-64d3c",
+    "storage_bucket": "csitzone-64d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933073146692:android:2230cbb8975f5d86",
+        "android_client_info": {
+          "package_name": "com.example.csitzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933073146692-73tol7ftd2gqndt3lllpt6tijues7b1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csitzone",
+            "certificate_hash": "bcda1707fc527bbc8762f403a44c334caeddab4b"
+          }
+        },
+        {
+          "client_id": "933073146692-mrutq9u8j1m3vga4i6551v72uehbl0ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4chaYsNPFEFcu8AnjskW_L1OEQc7dk9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933073146692-mrutq9u8j1m3vga4i6551v72uehbl0ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
